@@ -1,2 +1,2 @@
-## Simple Shell Project 
+## Simple Shell
 ### Authored by Seidu Mohammed && Sunday Coker
